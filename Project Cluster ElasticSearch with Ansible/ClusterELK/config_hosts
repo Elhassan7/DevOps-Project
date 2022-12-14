@@ -4,7 +4,6 @@ elk_node02 ansible_host=3.237.99.222 ansible_user=ubuntu ansible_ssh_private_key
 elk_node03 ansible_host=3.238.76.108 ansible_user=ubuntu ansible_ssh_private_key_file=/home/hassan/VM1_Key.pem
 
 [elk_master_nodes]
-
 elk_node01
 [elk_data_nodes]
 elk_node02
